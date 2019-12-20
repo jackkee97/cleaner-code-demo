@@ -19,4 +19,5 @@ function driverSetup() {
 function customerSetup() {
     return 'executedCustomerSetup';
 }
-module.exports = roleWithAccess; 
+
+module.exports = roleWithAccess;
